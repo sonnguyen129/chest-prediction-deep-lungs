@@ -1,7 +1,7 @@
 # chest-prediction-deep-lungs
 Prediction-task core model of my team projects in Vietnam Online Hackathon 2020. 
 
-After three rounds, my team known as Deep Lungs have won the the third price and receive a job offer from Sun* Startup Studio.
+After three rounds, my team known as Deep Lungs have won the the Third price and receive a job offer from Sun* Startup Studio.
 We use InceptionNet + ResNet and Attention Mechanisms to create Image Captioning model which helps doctors to generate some diagnosis on Lungs X-Ray Images.
 
 # Step 1: Download NIH Chest Xray Dataset:
